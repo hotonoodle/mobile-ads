@@ -1,0 +1,45 @@
+prohibited content - counterfeit goods
+prohibited content - dangerous products or services
+prohibited content - enabling dishonest behavior
+prohibited content - inappropriate content
+prohibited practices - abusing the ad network
+prohibited practices - data collection and use
+prohibited content - misrepresentation
+restricted content and features - defaults ads treatment
+restricted content and features - sexual content
+restricted content and features - alcohol 
+restricted content and features - copyright 
+restricted content and features - gambling and games 
+restricted content and features - healthcare and medicines 
+restricted content and features - political content 
+restricted content and features - financial services
+restricted content and features - trademarks
+editorial - style and spelling 
+editorial - punctuation and symbols
+editorial - capitalization
+editorial - repetition
+editorial - unacceptable spacing
+editorial - phone number in ad text
+editorial - misuse of ad features
+editorial - unidentified business
+editorial - business name requirements
+editorial - image quality
+editorial - video quality
+destination requirements - destination experience
+destination requirements - insufficient original content
+destination requirements - destination mismatch
+destination requirements - destination not working
+destination requirements - destination not accessible
+destination requirements - destination not crawlable
+destination requirements - app or web store policy violation
+destination requirements - unacceptable url
+destination requirements - unrecognized app
+destination requirements - unverified phone number
+destination requirements - unacceptable phone number
+technical requirements - one website per ad group
+technical requirements - unacceptable html5 ad
+technical requirements - account limits
+technical requirements - unsupported language
+technical requirements - unavailable video
+technical requirements - unacceptable video format
+technical requirements - unacceptable script
