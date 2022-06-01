@@ -1,6 +1,6 @@
 # mobile-ads
 
-interact with the dashboard using this link https://datastudio.google.com/u/0/reporting/3af197d9-9bd4-4c27-8093-90515780eb47/page/X7fRC
+interact with the dashboard using this link https://datastudio.google.com/u/0/reporting/a80eb1ed-ce43-4f4e-9f03-e3495c5d0c7c/page/xqIuC
 
 review ads policy https://support.google.com/adspolicy/
 
